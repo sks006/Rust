@@ -1,2 +1,2 @@
 ### Rust Topics Teach by Hakirat.
-__ With PDF  __
+__With PDF__
